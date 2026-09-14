@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Compiled output
+*.class
+target/
+out/
+bin/
